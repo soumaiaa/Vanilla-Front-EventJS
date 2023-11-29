@@ -43,7 +43,7 @@ Vidéo : [JavaScript côté navigateur : Les écouteurs d'événements](https://
 
 
 
-* Créez un paragraphe avec une consigne de combinaison de 2 touches à appuyer.
+* Créez un paragraphe avec une consigne de combinaison de 2 a à appuyer.
 * Lorsque la combinaison est pressée, une phrase apparaît dans un autre paragraphe.
 * Bonus : si j'appuie sur une troisième touche, le texte change de couleur.
 
@@ -59,6 +59,7 @@ Vidéo : [JavaScript côté navigateur : Les écouteurs d'événements](https://
 * Quand le clic est relâché la case reprend sa dimension d'origine.
 
 
+
 ### **🔥 Bonus : 🎠 Carrousel**
 
 
@@ -66,6 +67,6 @@ Vidéo : [JavaScript côté navigateur : Les écouteurs d'événements](https://
 * Créez un bouton
 * Au clic du bouton une image apparaît
 * Quand je clic à droite de l'image, une autre image apparaît
-    * bonus : faire un effet de transition
+* bonus : faire un effet de transition
 * Si je clic à droite de l'image une troisième apparaît, si je clic à gauche la précédente apparaît
 * ⚠️ interdiction d'utiliser les carrousels des frameworks css !

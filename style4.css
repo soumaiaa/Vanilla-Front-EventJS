@@ -1,0 +1,15 @@
+.case{
+    width: 200px;
+    height: 200px;
+    border: 2px black solid;
+    filter: blur(2px);
+    /* backdrop-filter: blur(10px); */
+ /* #case{
+    filter: blur(2px);    */
+} 
+/* #case{
+    filter: blur(2px);
+    width: 60%;
+    height:60%;
+     
+} */
